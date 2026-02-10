@@ -28,4 +28,4 @@ I am a PhD Student at the University of Gerogia, and a member of the [PMRC Lab.]
 
 ---
 
-[Rambles](qbocca.github.io/rambles/index.md)
+[Rambles](/rambles/index.md)
