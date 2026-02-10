@@ -1,4 +1,4 @@
-![P](pic.png)
+<img src="pic.png" alt="p" width="50%"> 
 
 ## About Me
 
