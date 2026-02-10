@@ -1,3 +1,5 @@
+[Photo of me!](https://www.linkedin.com/in/quentin-boccaleri-083346211)
+
 ## About Me
 
 I am a PhD Student at the University of Gerogia, and a member of the [PMRC Lab.](https://pmrc.uga.edu/) I am studying under both Dr. Bronson Bullock and Dr. Stephen Kinane. My primary focus in on modeling forest systems through statisitcal and machine learning approches. I study biometrics, statistics, ecophysiology, and silviculture.   
