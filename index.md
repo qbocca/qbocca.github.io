@@ -1,4 +1,4 @@
-[Photo of me!](https://www.linkedin.com/in/quentin-boccaleri-083346211)
+![Photo of me!](https://www.linkedin.com/in/quentin-boccaleri-083346211)
 
 ## About Me
 
