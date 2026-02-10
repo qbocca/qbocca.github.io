@@ -1,4 +1,4 @@
-<img src="pic.png" alt="p" width="50%"> 
+<img src="pic.png" alt="p" width="20%"> 
 
 ## About Me
 
