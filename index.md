@@ -25,3 +25,7 @@ I am a PhD Student at the University of Gerogia, and a member of the [PMRC Lab.]
 [Slide Deck](https://github.com/qbocca/qbocca.github.io/blob/main/SOMENS.pdf)
 
 [Markdown and Sources](https://github.com/qbocca/qbocca.github.io/blob/main/DOC.md)
+
+---
+
+[Rambles](qbocca.github.io/rambles/index.md)
