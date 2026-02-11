@@ -1,4 +1,4 @@
-[Rambles](/rambles/index.md)
+[Home](index.md) [Rambles](/rambles/index.md)
 
 ---
 
