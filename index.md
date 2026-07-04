@@ -14,8 +14,9 @@ I am a PhD Student at the University of Gerogia, and a member of the [PMRC Lab.]
 ### Current Projects
 
 1. Mix-species complex stand modeling.
-2. 3PG landscape level anaylsis.
-3. Machine learning classification of site productivity based on "bare" site conditons.
+ - Clustering growth and yield across multiple species (Chapter 1, PhD).
+3. 3PG landscape level anaylsis.
+4. Machine learning classification of site productivity based on "bare" site conditons.
 
 ### Education
 
@@ -29,7 +30,7 @@ I am a PhD Student at the University of Gerogia, and a member of the [PMRC Lab.]
 
 ### Hobbies and Interests
 
-I am a Christian and a Quaker, and have a strong passion for theology and philosphy. I love camping and being outdoors. I also love using simple and low-tech solutions and having fun side creative side projects that involve coding and experimentation. 
+I am a Christian (Catholic with Anglican Patrimony), and have a strong passion for theology and philosphy. I love camping and being outdoors. I also love using simple and low-tech solutions and having fun side creative side projects that involve coding and experimentation. 
 
 ---
 
@@ -40,5 +41,13 @@ I am a Christian and a Quaker, and have a strong passion for theology and philos
 [Slide Deck](https://github.com/qbocca/qbocca.github.io/blob/main/SOMENS.pdf)
 
 [Markdown and Sources](https://github.com/qbocca/qbocca.github.io/blob/main/DOC.md)
+
+---
+
+### Teaching
+
+**Summer 2026**
+
+UGA Forestry Summer Field Course - TA/Field Instructor
 
 
