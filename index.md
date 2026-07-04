@@ -38,7 +38,7 @@ I am a Christian (Catholic with Anglican Patrimony), and have a strong passion f
 
 **PMRC Summer 2026**
 
-<a href="SOMENS&NEMO_2025_qb_Template.pptx" target="_blank">Download Poster PDF</a>
+<a href="PMRC_2026_Poster_[Boccaleri]_[Quentin].pptx.pdf" target="_blank">Download Poster PDF</a>
 
 [R Shiny App](https://rucvea-quentin-boccaleri.shinyapps.io/shinnyapp/)
 
